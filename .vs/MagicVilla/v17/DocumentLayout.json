@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stev2\\source\\repos\\MagicVilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01F88D05-303D-49FA-8B7F-A3783C47777D}|MagicVilla_API\\MagicVilla_API.csproj|c:\\users\\stev2\\source\\repos\\magicvilla\\magicvilla_api\\magicvilla_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01F88D05-303D-49FA-8B7F-A3783C47777D}|MagicVilla_API\\MagicVilla_API.csproj|solutionrelative:magicvilla_api\\magicvilla_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MagicVilla_API",
+              "DocumentMoniker": "C:\\Users\\stev2\\source\\repos\\MagicVilla\\MagicVilla_API\\MagicVilla_API.csproj",
+              "RelativeDocumentMoniker": "MagicVilla_API\\MagicVilla_API.csproj",
+              "ToolTip": "C:\\Users\\stev2\\source\\repos\\MagicVilla\\MagicVilla_API\\MagicVilla_API.csproj",
+              "RelativeToolTip": "MagicVilla_API\\MagicVilla_API.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T00:16:03.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
